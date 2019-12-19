@@ -1,0 +1,14 @@
+{
+    "home": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-predictions-home-212510-authRole",
+            "UnauthRoleArn": "arn:aws:iam::181898683148:role/amplify-predictions-home-212510-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::181898683148:role/amplify-predictions-home-212510-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-predictions-home-212510-deployment",
+            "UnauthRoleName": "amplify-predictions-home-212510-unauthRole",
+            "StackName": "amplify-predictions-home-212510",
+            "StackId": "arn:aws:cloudformation:us-west-2:181898683148:stack/amplify-predictions-home-212510/93fc2f90-221f-11ea-96c9-02a77ed54d64"
+        }
+    }
+}
