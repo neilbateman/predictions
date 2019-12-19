@@ -9,6 +9,11 @@
             "UnauthRoleName": "amplify-predictions-home-212510-unauthRole",
             "StackName": "amplify-predictions-home-212510",
             "StackId": "arn:aws:cloudformation:us-west-2:181898683148:stack/amplify-predictions-home-212510/93fc2f90-221f-11ea-96c9-02a77ed54d64"
+        },
+        "categories": {
+            "auth": {
+                "predictionsbdfecf6c": {}
+            }
         }
     }
 }
